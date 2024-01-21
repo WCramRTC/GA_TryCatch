@@ -26,7 +26,7 @@ You entered: 25 years old
 Program continues after user input.
 ```
 
-***Without Try-Catch Block and an Improper Input ("cat")
+***Without Try-Catch Block and an Improper Input ("cat")***
 
 ```console
 Please enter your age: cat
@@ -44,6 +44,7 @@ Invalid input. Please enter a valid integer age.
 Program continues after user input.
 ```
 
+--- 
 
 ## Click on the link to YouTube to start the Try Catch section of the lecture.
 
@@ -113,10 +114,12 @@ public static void Main(string[] args) {
 Please enter a whole number: 7.2 
 ```
 
-![[Pasted crash.png]]
+![Pasted Crash](Images/Pasted%20crash.png)
+
 Or
 
-![[Console_Error.png]]
+![Console Error](Images/Console_Error.png)
+
 
 ***Observing the Crash:***
 
