@@ -82,6 +82,9 @@ Program continues after user input.
 ## Practice
 
 ---
+
+### Create a C# console application, give it a name of GA_TryCatch_YourName
+
 ### Step 1 - **Implementing Try-Catch in Main Method**
 
 #### 1. Watch the lecture starting at 01:08:28
@@ -242,6 +245,8 @@ Certainly! Here's an example of a console assignment that tests your knowledge o
 ## Console Assignment: Error Handling in C\#
 
 **Objective:** Create a C# console application that demonstrates error handling using try-catch blocks.
+
+### Comment out your Practice code, then write the assignment below in the `main` code block.
 
 **Requirements:**
 
